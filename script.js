@@ -255,7 +255,7 @@ document.addEventListener('DOMContentLoaded', () => {
         '24x7 Security Operations Across Cloud & On-Prem',
         'SOAR Automation & Workflow Engineering',
         'Enterprise-Grade Security Applications',
-        '100+ API Integrations & Connector Factory',
+        '150+ Connector Integrations & Lab Expert',
     ], 55, 2800);
     initNavigation();
     initSmoothScroll();

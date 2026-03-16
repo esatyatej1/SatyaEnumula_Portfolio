@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Experience-6%2B_Years-3b82f6?style=flat-square" />
   <img src="https://img.shields.io/badge/SOC_Management-3%2B_Years-a855f7?style=flat-square" />
   <img src="https://img.shields.io/badge/Certifications-15%2B-f59e0b?style=flat-square" />
-  <img src="https://img.shields.io/badge/API_Integrations-100%2B-ef4444?style=flat-square" />
+  <img src="https://img.shields.io/badge/Connectors-150%2B-ef4444?style=flat-square" />
 </p>
 
 ---
@@ -43,10 +43,10 @@ I am a **SOC Manager & Cybersecurity Leader** based in **Hyderabad, India** with
 Currently serving as **SOC Manager at Varutra Consulting**, I lead 24x7 security operations across cloud (AWS/Azure) and on-premises environments, and I am actively **building an enterprise-grade cybersecurity SaaS platform**.
 
 **Key Highlights:**
-- 🛡️ Led real-time SOC monitoring for **10+ enterprise clients**
+- 🛡️ Led real-time SOC monitoring for **30+ enterprise clients**
 - 📊 Deployed & optimized **IBM QRadar, Splunk, Azure Sentinel** across multiple environments
 - 🤖 Introduced **SOAR automation** (Demisto/XSOAR) reducing manual workload significantly
-- 🔌 Managed **100+ API integrations** and connector lab setups
+- 🔌 Managed **150+ Connector integrations** and implementation lab setups
 - 🏆 Awarded **Special Recognition for Superior Dedication & Performance** (2022)
 
 ---
@@ -60,7 +60,7 @@ An **enterprise-grade, cloud-native cybersecurity SaaS platform** designed to tr
 | 🎯 **Threat Detection Engine** | AI-powered anomaly detection with customizable correlation rules |
 | ⚡ **Automated Incident Response** | Built-in SOAR with drag-and-drop playbook builder |
 | 📋 **Compliance Dashboard** | Pre-built templates for ISO 27001, NIST, GDPR, PCI-DSS |
-| 🔌 **Universal Connector Hub** | 100+ pre-built integrations with leading security tools |
+| 🔌 **Universal Connector Hub** | 150+ pre-built integrations with leading security tools |
 | 🐛 **Vulnerability Lifecycle Manager** | Integrated scanning, ticket creation & patch tracking |
 | 👥 **Multi-Tenant SOC Management** | RBAC, client dashboards, SLA tracking & white-label support |
 
@@ -105,7 +105,7 @@ An **enterprise-grade, cloud-native cybersecurity SaaS platform** designed to tr
 
 | Project | Client | Status | Scope |
 |---------|--------|--------|-------|
-| **Connector Factory** | Confidential Client (Cybersecurity) | 🟢 Active | 100+ API integrations, lab setup, multi-solution deployment |
+| **Connector Factory** | Confidential Client (Cybersecurity) | 🟢 Active | 150+ Connector integrations, lab setup, multi-solution deployment |
 | **AWS SOC Monitoring** | Confidential Client (Technology) | 🟢 Active | 24x7 SOC, VPN, CloudTrail/CloudWatch → QRadar |
 | **Real-Time SOC** | Confidential Client (Engineering) | 🟢 Active | IBM QRadar POC → full deployment, critical asset monitoring |
 | **AWS EC2 SOC** | Confidential Client (Advisory) | 🟢 Active | Sophos VPN, QRadar dashboards, near-automation |
@@ -145,7 +145,7 @@ This portfolio website is a **premium, cybersecurity-themed** single-page applic
 - 📡 **Radar Sweep Animation** — SOC command center feel
 - 🛡️ **Floating Security Badges** — Ambient lock/key/shield icons
 - 🔄 **Preloader** — "Initializing Security Protocols" loading sequence
-- 📊 **SOC Dashboard Metrics** — Animated KPI cards with progress bars
+- 📊 **SOC Dashboard Metrics** — Animated KPI cards (5000+ Incidents, 150+ Connectors, 500+ Reports, 30+ Clients)
 - 🏷️ **Filterable Skills Arsenal** — Tab-based filtering (SIEM / IR / Cloud / Leadership)
 - 🔧 **Infinite Tools Marquee** — Scrolling showcase of 16+ security tools
 - 💻 **CyberSaaS Mock Dashboard** — Live terminal logs & metric visualizations
