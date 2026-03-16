@@ -105,14 +105,14 @@ An **enterprise-grade, cloud-native cybersecurity SaaS platform** designed to tr
 
 | Project | Client | Status | Scope |
 |---------|--------|--------|-------|
-| **Connector Factory** | Cyber X Force | 🟢 Active | 100+ API integrations, lab setup, multi-solution deployment |
-| **AWS SOC Monitoring** | Digital X Force | 🟢 Active | 24x7 SOC, VPN, CloudTrail/CloudWatch → QRadar |
-| **Real-Time SOC** | Toyo Engineering India | 🟢 Active | IBM QRadar POC → full deployment, critical asset monitoring |
-| **AWS EC2 SOC** | Advising Gen Z | 🟢 Active | Sophos VPN, QRadar dashboards, near-automation |
-| **Internal SOC** | IPV Group | 🟢 Active | EDR/SIEM/Firewall integration, playbooks |
-| **Firewall Audit** | Aarogya Sri Trust | ✅ Done | Fortinet HA audit, compliance, stakeholder reporting |
-| **AWS SOC & IT** | Novatum | ✅ Done | NIST/GDPR compliance, LDAP, CloudWatch |
-| **Managed Services** | Recordent | ✅ Done | Sophos config, Azure AD, spam filter, 24/7 support |
+| **Connector Factory** | Confidential Client (Cybersecurity) | 🟢 Active | 100+ API integrations, lab setup, multi-solution deployment |
+| **AWS SOC Monitoring** | Confidential Client (Technology) | 🟢 Active | 24x7 SOC, VPN, CloudTrail/CloudWatch → QRadar |
+| **Real-Time SOC** | Confidential Client (Engineering) | 🟢 Active | IBM QRadar POC → full deployment, critical asset monitoring |
+| **AWS EC2 SOC** | Confidential Client (Advisory) | 🟢 Active | Sophos VPN, QRadar dashboards, near-automation |
+| **Internal SOC** | Confidential Client (Enterprise Group) | 🟢 Active | EDR/SIEM/Firewall integration, playbooks |
+| **Firewall Audit** | Confidential Client (Healthcare Trust) | ✅ Done | Fortinet HA audit, compliance, stakeholder reporting |
+| **AWS SOC & IT** | Confidential Client (Cloud & IT) | ✅ Done | NIST/GDPR compliance, LDAP, CloudWatch |
+| **Managed Services** | Confidential Client (FinTech) | ✅ Done | Sophos config, Azure AD, spam filter, 24/7 support |
 
 ---
 
@@ -202,7 +202,7 @@ SatyaEnumula_Portfolio/
 | Channel | Details |
 |---------|---------|
 | 📧 **Email** | [esatyatej1@gmail.com](mailto:esatyatej1@gmail.com) |
-| 📱 **Phone** | +91 9989771765 |
+| 📱 **Phone** | +91 9989771XXX |
 | 💼 **LinkedIn** | [Connect with me](https://linkedin.com) |
 | 🐙 **GitHub** | [esatyatej1](https://github.com/esatyatej1) |
 
